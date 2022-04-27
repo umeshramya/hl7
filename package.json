@@ -1,0 +1,22 @@
+{
+  "name": "hl7",
+  "version": "1.0.0",
+  "description": "hl7 server",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/umeshramya/hl7.git"
+  },
+  "author": "Dr Umesh R Bilagi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/umeshramya/hl7/issues"
+  },
+  "homepage": "https://github.com/umeshramya/hl7#readme",
+  "dependencies": {
+    "simple-hl7": "^3.2.4"
+  }
+}
